@@ -798,7 +798,7 @@
  }
  a {
    transition: all 200ms ease-in;
-   color: #5db9ff;
+   color: lightcyan  ; /*#5db9ff*/
    cursor: pointer;
    text-decoration: none;
  }
